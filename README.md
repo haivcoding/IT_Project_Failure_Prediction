@@ -24,6 +24,9 @@ Data was cleaned, encoded, and standardised for modelling. Missing values, accou
    * Selected 166 projects with complete information and labelled outcomes (“Successful” or “Failed”).
    * Defined 21 project features based on insights from 46 research papers and 14 industry reports, covering areas such as management quality, planning, technical competence, user involvement, and resource availability.
 
+<img width="972" height="525" alt="image" src="https://github.com/user-attachments/assets/f1a8ce5a-3c12-4292-88d9-a006b488701f" />
+
+
 2. **Data Processing**
 
    * Extracted and cleaned both structured and unstructured data using Python tools such as BeautifulSoup and Regular Expressions, and Power Automate Web Scraper.
@@ -44,6 +47,9 @@ Data was cleaned, encoded, and standardised for modelling. Missing values, accou
 
    * Models achieved high predictive accuracy, with SVM reaching up to 94%.
    * Results confirmed that project outcomes can be reliably predicted using early-stage project characteristics, enabling better strategic and funding decisions.
+
+<img width="934" height="526" alt="image" src="https://github.com/user-attachments/assets/3c4cbb9e-72ce-4a77-a77f-d830a10705a2" />
+
 
 # Key findings
 
