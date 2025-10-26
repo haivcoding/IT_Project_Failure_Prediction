@@ -1,0 +1,167 @@
+﻿Project name,State,Country,Type,Sub-Category,Year started,Year ended,Duration (Years),Budget,Restarts,Cost overruns,Time overruns,Content deficiency,User Involvement,Executive Management,Statement of Requirements,Planning,Expectations,Requirements & Specifications,Changing Requirements & Specifications,Technical Competence,Resources Availability,IT Management,Technical Literacy,User satisfaction
+Robodebt scheme,Failed,Australia,Government,Finance,2015,2019,4,$1.5 billion AUD,No,No,No,Yes,Low,Poor,Unclear,Poor,Unrealistic,Incomplete,Frequently changing,Low,Inadequate,Poor,Low,Low
+Queensland's Health Payroll System,Failed,Australia,Government,Healthcare,2010,2016,6,$1.25 billion AUD,Yes,Yes,Yes,Yes,Low,Poor,Unclear,Poor,Unrealistic,Incomplete,Unstable,Low,Inadequate,Poor,Low,Low
+Myki smart Card system,Failed,Australia,Government,Transportation,2009,n/a,n/a,$1.5 billion AUD,Yes,Yes,Yes,Yes,Low,Poor,Unclear,Poor,Unrealistic,Incomplete,Stable,High,Adequate,Strong,High,High
+CHESS Replacement (Clearing House Electronic Subregister System),Failed,Australia,Non-government,Finance,2017,n/a,n/a,$245 million AUD,No,Yes,Yes,n/a,High,High,Clear,Proper,Realistic,Complete,Stable,High,Adequate,Strong,High,Low
+Panorama,Failed,Canada,Government,Health,2004,n/a,n/a,$147 million CAD,No,No,Yes,Yes ,Low,Poor,Unclear,Poor,Unrealistic,Incomplete,Unstable,Low,Inadequate,Poor,Low,Low
+Loblaws Business Intelligence System,Failed,Canada,Non-government,Retail,2016,2019,3,n/a,Yes,n/a,n/a,Yes,Low,Poor,Unclear,Poor,Unrealistic,Incomplete,Frequently changing,Low,Inadequate,Poor,Low,Low
+Customs and Border Protection Staff Recruitment,Failed,USA,Government,Human resources,2019,2021,2,$23 million CAD,Yes,Yes,Yes,Yes,Low,Poor,Unclear,Poor,Unrealistic,Incomplete,Frequently changing,Low,Inadequate,Poor,Low,n/a
+T2 - Texas Child Support Enforcement System 2.0,Failed,USA,Government,Finance,2007,2019,12,$367.5 million CAD,Yes,Yes,Yes,No,Low,Poor,Unclear,Poor,Unrealistic,Incomplete,Frequently changing,Low,Inadequate,Poor,Low,High
+eLWIS,Failed,Germany,Non-government,Retail,2011,2018,7,£500 million EUR,Yes,Yes,Yes,Yes,Low,Poor,Unclear,Poor,Unrealistic,Incomplete,Frequently changing,Low,Inadequate,Poor,Low,Low
+i6,Failed,UK,Government,Law Enforcement,2013,2016,3,£46.11 million EUR,No,Yes,Yes,Yes,Low,Poor,Unclear,Poor,Unrealistic,Incomplete,Frequently changing,Low,Inadequate,Poor,Low,High
+Phoenix,Failed,Canada,Government,Finance,2010,2016,6,$1.25 billion CAD,Yes,Yes,Yes,Yes,Low,Poor,Unclear,Poor,Unrealistic,Incomplete,Frequently changing,Low,Inadequate,Poor,Low,Low
+TSA Body Scanners,Failed,USA,Government,Security,2009,2015,6,$160 million USA,Yes,Yes,Yes,No,Low,Poor,Unclear,Poor,Unrealistic,Incomplete,Stable,Low,Adequate,Poor,n/a,n/a
+Instructional Technology Initiative,Failed,USA,Government,Education,2013,n/a,n/a,$1.3 Billion,Yes,n/a,Yes,Yes ,n/a,n/a,Unclear,Poor,Realistic,Incomplete,Unstable,n/a,Adequate,n/a,n/a,Low
+Quibi,Failed,USA,Non-government,Entertainment,2018,2020,2,$1.75 billion,n/a,Yes,No,No,Low,Poor,Unclear,Poor,Unrealistic,Incomplete,n/a,n/a,Adequate,n/a,n/a,Low
+TAURUS,Failed,UK,Non-government,Finance,1983,1993,10,£75 million,Yes,Yes,Yes,Yes,High,Poor,Unclear,Poor,Unrealistic,Incomplete,Unstable,Low,Inadequate,Poor,Low,High
+FAA Advanced Automation System,Failed,USA,Government,Aviation,1980,1994,14,A$3.2 billion,Yes,Yes,Yes,Yes,Low,Poor,Unclear,Poor,Unrealistic,Incomplete,Frequently changing,Low,Inadequate,Poor,Low,Low
+RISP,Failed,UK,Government,Heathcare,1991,2006,15,£63 million,Yes,Yes,Yes,No,Low,Poor,Unclear,Poor,Unrealistic,Incomplete,Frequently changing,Low,Inadequate,Poor,Low,n/a
+INCIS,Failed,New Zealand,Government,Law Enforcement,1993,1999,6,A$66 million,No,Yes,No,Yes,Low,High,Unclear,Poor,Unrealistic,Incomplete,Frequently changing,Low,Inadequate,Poor,Low,High
+Bolit,Failed,Sweden,Government,Administration,1997,2002,5,$35 million,No,Yes,Yes,Yes,Low,Poor,Unclear,Poor,Unrealistic,Incomplete,Frequently changing,Low,Inadequate,Poor,Low,Low
+CSIO Portal,Failed,Canada,Non-government,Insurance,1999,2006,7,$15 million CAD,No,Yes,Yes,Yes,Low,High,Unclear,Poor,Unrealistic,Complete,Frequently changing,Low,Adequate,Poor,Low,High
+Customer Account Data Engine,Failed,USA,Government,Taxation,2000,2009,9,$500 million USA,Yes,Yes,Yes,No,Low,Poor,Unclear,Poor,Unrealistic,Incomplete,Frequently changing,Low,Inadequate,Poor,Low,Low
+NHS Connecting for Health,Failed,UK,Government,Heathcare,2002,2011,9,£12 billion,Yes,Yes,Yes,Yes,Low,Poor,Unclear,Poor,Unrealistic,Incomplete,Unstable,Low,Inadequate,Poor,Low,n/a
+Expeditionary Combat Support System,Failed,USA,Government,Military,2005,2012,7,A$12 billion,Yes,Yes,Yes,Yes,Low,Poor,Unclear,Poor,Unrealistic,Incomplete,Unstable,Low,Inadequate,Poor,Low,Low
+Polsag,Failed,Denmark,Government,Law Enforcement,2002,2013,11,$70 million DKK,Yes,Yes,Yes,No,Low,Poor,Unclear,Poor,Unrealistic,Incomplete,Unstable,Low,Inadequate,Poor,Low,Low
+e-Borders,Failed,UK,Government,Immigration,2003,2011,8,£1.2 billion,Yes,Yes,Yes,Yes,Low,Poor,Unclear,Poor,Unrealistic,Incomplete,Frequently changing,Low,Inadequate,Poor,Low,Low
+Försäkringskassan SAP,Failed,Sweden,Government,Heathcare,2008,2018,10,A$1.4 billion,Yes,Yes,Yes,Yes,Low,Poor,Unclear,Poor,Unrealistic,Incomplete,Frequently changing,Low,Inadequate,Poor,Low,Low
+Digital Media Initiative,Failed,UK,Government,Media,2008,2017,9,£81.7 million,No,Yes,Yes,Yes,Low,Poor,Unclear,Poor,Unrealistic,Incomplete,Frequently changing,Low,Inadequate,Poor,Low,High
+The Surrey Integrated Reporting Enterprise Network (SIREN),Failed,UK,Government,Law Enforcement,2009,2013,4,£14.8 million,No,Yes,Yes,No,Low,Poor,Unclear,Poor,Unrealistic,Incomplete,Frequently changing,Low,Inadequate,Poor,Low,Low
+Pust Siebel,Failed,Sweden,Government,Law Enforcement,2004,2014,10,A$1.7 billion,Yes,Yes,Yes,Yes,Low,Poor,Unclear,Poor,Unrealistic,Incomplete,Frequently changing,Low,Inadequate,Poor,Low,Low
+Cover Oregon,Failed,USA,Government,Heathcare,2011,2016,5,$305 million,Yes,Yes,Yes,Yes,Low,Poor,Unclear,Poor,Unrealistic,Incomplete,Frequently changing,Low,Inadequate,Poor,Low,High
+My Health Record,Failed,Australia,Government,Heathcare,2012,2023,11,$2.2 billion AUD,No,Yes,No,No,Low,High,Clear,Proper,Realistic,Complete,Stable,High,Adequate,Strong,High,n/a
+National Broadband Network (NBN),Failed,Australia,Government,Telecommunication,2009,2023,14,$58.9 billion AUD,Yes,Yes,Yes,Yes,Low,High,Clear,Proper,Unrealistic,Complete,Stable,High,Adequate,Strong,High,Low
+Rhode Island's UHIP Program,Failed,USA,Government,Heathcare,2016,2018,2,$364 million,No,Yes,Yes,Yes,Low,Poor,Unclear,Poor,Unrealistic,Incomplete,Unstable,Low,Inadequate,Poor,Low,Low
+The Coast Guard's EHR System,Failed,USA,Government,Heathcare,2010,2015,5,$67 million,Yes,Yes,Yes,No,Low,Poor,Unclear,Poor,Unrealistic,Incomplete,Frequently changing,Low,Inadequate,Poor,Low,Low
+National Grid ERP System,Failed,USA,Non-government,Energy,2009,2012,3,$305 million,No,Yes,Yes,Yes,Low,Poor,Unclear,Poor,Unrealistic,Incomplete,Frequently changing,Low,Inadequate,Poor,Low,High
+HealthSMART System,Failed,Australia,Government,Heathcare,2003,2013,10,$323 million AUD,No,No,Yes,Yes,Low,Poor,Unclear,Poor,Unrealistic,Incomplete,Unstable,Low,Inadequate,Poor,Low,n/a
+Australian Customs Service,Failed,Australia,Government,Logistics,1996,2007,11,$225 million AUD,No,No,Yes,Yes,Low,Poor,Unclear,Poor,Unrealistic,Incomplete,Unstable,Low,Inadequate,Poor,Low,Low
+Next Generation Financial Information System for California,Failed,USA,Government,Finance,2004,2015,11,$2.2 billion,Yes,Yes,Yes,No,Low,Poor,Unclear,Poor,Unrealistic,Incomplete,Frequently changing,Low,Inadequate,Poor,Low,High
+i2 Demand Planning,Failed,USA,Non-government,Retail,2003,2007,4,$50 million,Yes,Yes,Yes,Yes,Low,Poor,Unclear,Poor,Unrealistic,Incomplete,Frequently changing,Low,Inadequate,Poor,Low,Low
+ERP Implementation,Failed,USA,Non-government,Retail,2008,2015,7,$6 billion,Yes,Yes,Yes,Yes,Low,Poor,Unclear,Poor,Unrealistic,Incomplete,Unstable,Low,Inadequate,Poor,Low,Low
+FoxMeyer's ERP Implementation,Failed,USA,Non-government,Heathcare,1993,1996,3,$100 million,No,Yes,Yes,No,Low,Poor,Unclear,Poor,Unrealistic,Incomplete,Unstable,Low,Inadequate,Poor,Low,High
+Vodafone's Billing System Overhaul,Failed,UK,Non-government,Telecommunication,2012,2016,4,£4.6 million,No,No,Yes,Yes,Low,Poor,Unclear,Poor,Unrealistic,Incomplete,Unstable,Low,Inadequate,Poor,Low,Low
+MillerCoors' ERP Implementation,Failed,USA,Non-government,Retail,2013,2017,4,$100 million,No,Yes,Yes,Yes,Low,Poor,Unclear,Poor,Unrealistic,Incomplete,Frequently changing,Low,Inadequate,Poor,Low,n/a
+Target Canada Expansion,Failed,Canada,Non-government,Retail,2011,2015,4,$7 billion CAD,No,Yes,Yes,No,Low,Poor,Unclear,Poor,Unrealistic,Incomplete,Frequently changing,Low,Inadequate,Poor,Low,Low
+Sainsbury's Warehouse Automation,Failed,UK,Non-government,Retail,2000,2004,4,£220 million,No,Yes,Yes,Yes,Low,Poor,Unclear,Poor,Unrealistic,Incomplete,Frequently changing,Low,Inadequate,Poor,Low,Low
+Co-operative Bank’s IT Transformation,Failed,UK,Non-government,Finance,2006,2013,7,£6 billion,Yes,Yes,Yes,Yes,Low,Poor,Unclear,Poor,Unrealistic,Incomplete,Frequently changing,Low,Inadequate,Poor,Low,High
+Grants Management System (GMS),Failed,Australia,Government,Heathcare,2011,2014,3,$684000 AUD,Yes,Yes,Yes,No,n/a,Poor,n/a,Poor,Unrealistic,n/a,n/a,Low,n/a,Poor,Low,Low
+National Health Service (NHS) IT Program,Failed,UK,Government,Heathcare,2002,2011,9,n/a,n/a,Yes,Yes,Yes,Low,Poor,Unclear,Poor,Unrealistic,Incomplete,Frequently changing,Low,Inadequate,Poor,Low,Low
+Asset Management System (AMS),Failed,Australia,Government,Civil Engineering,n/a,n/a,n/a,$14 million ADU,No,Yes,Yes,Yes,Low,Poor,Unclear,Poor,Unrealistic,Incomplete,n/a,Low,Inadequate,Poor,n/a,Low
+ACHRIS Phase 3 Â– Amalgamation of the CHMP database,Failed,Australia,Government,Management of Process,2019,2022,3,n/a,n/a,Yes,Yes,No,n/a,High,Clear,n/a,Realistic,n/a,n/a,n/a,inadequate,n/a,n/a,n/a
+Dynamic Variable Speed Limit (DVSL) Project - Phases 2 & 3,Failed,Australia,Government,Development and Integration,2016,2018,2,$100 million AUD,No,n/a,Yes,n/a,n/a,High,Unclear,n/a,Realistic,n/a,n/a,n/a,inadequate,n/a,n/a,n/a
+Electronic Document Records Management System,Failed,Australia,Government,Records Management,2017,2017,0,n/a,n/a,n/a,Yes,n/a,n/a,High,Clear,n/a,n/a,n/a,n/a,n/a,inadequate,n/a,n/a,n/a
+"Health, Safety and Environment Management System",Failed,Australia,Government,Human Capital / Workforce Management,2018,2019,1,n/a,n/a,n/a,Yes,n/a,n/a,High,Clear,Poor,n/a,Incomplete,Frequently changing,n/a,inadequate,n/a,n/a,n/a
+Regional Radio Command Service,Failed,Australia,Government,Communication,2014,2016,2,$8000000 AUD,n/a,No,Yes,n/a,n/a,High,Clear,n/a,n/a,n/a,n/a,n/a,inadequate,n/a,n/a,n/a
+Resolving Disputes Digitally at VCAT,Failed,Australia,Government,"Analyses and Statistics ,Customer Relationship Management,Records Management ,Routing and Scheduling,Tracking and Workflow",2018,2019,1,n/a,No,n/a,Yes,No,High,High,Clear,Proper,Unrealistic,Complete,Stable,n/a,inadequate,n/a,n/a,High
+Workforce management,Failed,Australia,Government,Human Capital / Workforce Management,2018,2021,3,$250000 AUD,n/a,Yes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,inadequate,n/a,n/a,n/a
+Workplace 2020 - Communication and Collaboration,Failed,Australia,Government,Communication,2017,2019,2,$40000 AUD,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,Unrealistic,n/a,n/a,n/a,inadequate,n/a,n/a,n/a
+M-PESA,Failed,Kenya,Non-government,Finance,2007,2023,16,n/a,No,Yes,No,Yes,Low,High,Clear,Poor,Unrealistic,Incomplete,Stable,High,Adequate,Poor,Low,Low
+Clinical Information Sharing,Failed,Australia,Government,"Development and Integration ,Data Management",2017,2018,1,n/a,Yes,n/a,Yes,yes,n/a,High,Clear,n/a,Realistic,n/a,Unstable,n/a,n/a,n/a,n/a,n/a
+Connected Paramedic,Failed,Australia,Government,"Communication,Collaboration  ,Knowledge Management ",2019,2021,2,$7700000 AUD,n/a,Yes,Yes,n/a,n/a,Poor,Clear,n/a,Realistic,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Core Infrastructure Refresh,Failed,Australia,Government,Systems Management,2021,2022,1,$30000 AUD,n/a,n/a,Yes,n/a,n/a,High,Clear,n/a,Realistic,Incomplete,Unstable,n/a,n/a,n/a,n/a,n/a
+Digital Asset Management,Failed,Australia,Government,"Assets/Materials Management,Records Management",2018,2019,1,n/a,n/a,Yes,Yes,Yes,n/a,High,Clear,n/a,Unrealistic,Incomplete,Unstable,n/a,n/a,n/a,n/a,low
+Vietnam National Single Window,Failed,Vietnam,Government,Customs,2014,2019,5,$21.7 million,No,Yes,Yes,No,Low,High,Unclear,Poor,Unrealistic,Incomplete,Frequently changing,Low,Adequate,Poor,Low,Low
+Vietnam Airlines Online Booking System,Failed,Vietnam,Non-government,Transportation,2008,2010,2,$10 million,No,Yes,Yes,Yes,Low,High,Unclear,Poor,Unrealistic,Incomplete,Unstable,High,Adequate,Poor,Low,Low
+Vietnam Health Information System,Failed,Vietnam,Government,Heathcare,2005,2010,5,$30 million,No,Yes,Yes,No,Low,High,Unclear,Poor,Unrealistic,Incomplete,Unstable,High,Adequate,Poor,Low,High
+Vietnam E-Government Portal,Failed,Vietnam,Government,Public Administration,2009,2012,3,$15 million,No,Yes,Yes,Yes,Low,High,Unclear,Poor,Unrealistic,Incomplete,Unstable,Low,Adequate,Poor,Low,Low
+Vietnam Builders Halt,Failed,Vietnam,Non-government,Civil Engineering,n/a,2023,n/a,$34 billion,No,Yes,Yes,Yes,Low,High,Clear,Poor,Unrealistic,Incomplete,Unstable,High,Adequate,Strong,High,Low
+Revisiting the construction,Failed,Vietnam,Government,Civil Engineering,2015,n/a,n/a,n/a,No,Yes,Yes,Yes,Low,High,Unclear,Poor,Unrealistic,Incomplete,Unstable,Low,Adequate,Strong,High,Low
+Vietnam E-Taxation System,Failed,Vietnam,Government,Finance,2016,2018,2,$32 million,No,Yes,Yes,Yes,Low,Poor,Unclear,Poor,Unrealistic,Incomplete,Frequently changing,Low,Inadequate,Poor,Low,High
+Japan’s Fifth Generation Computer Systems (FGCS),Failed,Japan,Government,Artificial Intelligence,1982,1992,10,$400 million USD,No,Yes,Yes,No,Low,Poor,Unclear,Poor,Unrealistic,Incomplete,Frequently changing,High,Adequate,Strong,High,Low
+The “Digital Transformation” Digitalization Policies,Failed,Japan,Government,E-Government,2021,n/a,n/a,n/a,No,n/a,n/a,Yes,Low,Poor,Unclear,Poor,Unrealistic,Incomplete,Frequently changing,High,Adequate,Strong,High,Low
+FinTech,Failed,Japan,Non-government,Finance,2016,2019,3,$3.6 million USD,No,Yes,Yes,Yes,Low,Poor,Clear,Proper,Unrealistic,Incomplete,Frequently changing,Low,Inadequate,Poor,Low,Low
+Korea’s Next Generation e-Government (NGeGov),Failed,Korea,Government,E-Government,2005,2010,5,$2.1 billion,No,Yes,Yes,Yes,Low,Poor,Unclear,Poor,Unrealistic,Incomplete,Frequently changing,Low,Inadequate,Poor,Low,Low
+Korea’s Smart Card (T-Money),Failed,Korea,Non-government,Transportation,2004,2006,2,$200 million,No,No,No,No,High,High,Unclear,Poor,Unrealistic,Complete,Frequently changing,Low,Inadequate,Poor,Low,High
+uCustoms System,Failed,Malaysia,Government,Finance,2011,2017,6,RM1.3 billion,No,Yes,Yes,Yes,Low,Poor,Unclear,Poor,Unrealistic,Incomplete,Frequently changing,Low,Inadequate,Poor,Low,Low
+Malaysia My Second Home (MM2H) Programme,Failed,Malaysia,Government,Tourism,2002,2020,18,n/a,No,No,No,Yes,Low,High,Clear,Proper,Realistic,Complete,Stable,High,Adequate,Strong,High,Low
+Castor Gas Storage Plant,Failed,Spain,Non-government,Energy,2008,2013,5,€1.7 billion,No,Yes,Yes,Yes,Low,Poor,Unclear,Poor,Unrealistic,Incomplete,Unstable,Low,Inadequate,Poor,Low,Low
+Apple's Copland operating system,Failed,USA,Non-government,Software Development,1994,1996,2,n/a,Yes,Yes,Yes,Yes,Low,Poor,Unclear,Poor,Unrealistic,Incomplete,Frequently changing,High,Adequate,Poor,High,Low
+US Census Bureau's remote devices ,Failed,USA,Government,Government,2008,2010,2,600 million,Yes,Yes,Yes,No,Low,Poor,Unclear,Poor,Unrealistic,Incomplete,Frequently changing,High,Adequate,Poor,High,Low
+Nest Thermostat Software Update,Failed,USA,Non-government,Software Development,2016,2016,0,n/a,Yes,No,No,Yes,High,High,Clear,Proper,Realistic,Complete,Stable,High,Adequate,Strong,High,High
+SITEL,Failed,Spain,Government,Security,2007,2010,3,500,No,Yes,Yes,Yes,Low,Poor,Unclear,Poor,Unrealistic,Incomplete,Unstable,Low,Adequate,Poor,Low,Low
+Sistema de Administración Tributaria (SAT),Failed,Mexico,Government,Taxation,2008,2013,5,$1.2 billion,No,Yes,Yes,Yes,Low,Poor,Unclear,Poor,Unrealistic,Incomplete,Frequently changing,Low,Inadequate,Poor,Low,Low
+Smart Campus Development Program,Failed,Philippines,Government,Education,2020,2021,1,1.96 billion,No,No,Yes,Yes,Low,Poor,Unclear,Poor,Unrealistic,Incomplete,Stable,High,Adequate,Poor,High,Low
+GovCMS,Successful,Australia,Government,Administration,2015,2023,8,n/a,No,Yes,No,Yes,High,High,Clear,Proper,Realistic,Complete,Stable,High,Adequate,Strong,High,High
+Asset Management Capability (AMC),Successful,Australia,Government,Civil Engineering,2006,2012,6,$15 million AUD,No,Yes,Yes,No,High,High,Clear,Poor,Realistic,Complete,Unstable,High,Inadequate,Strong,High,High
+Google Search,Successful,USA,Non-government,Technology,1996,2023,27,n/a,No,No,No,No,High,High,Unclear,Proper,Realistic,Complete,Stable,High,Adequate,Strong,High,High
+MyGov,Successful,Australia,Government,Government services,2010,2023,13,n/a,No,No,No,No,High,High,Clear,Proper,Realistic,Complete,Stable,High,Adequate,Strong,High,Low
+Western Sydney Green Gas,Successful,Australia,Non-government,Energy,2019,2023,4,$10 million AUD,No,No,No,No,High,High,Unclear,Proper,Realistic,Complete,Stable,High,Adequate,Poor,High,High
+Amazon Web Services (AWS),Successful,USA,Non-government,Cloud computing,2006,2023,17,n/a,No,No,No,Yes,High,High,Clear,Proper,Unrealistic,Incomplete,Stable,High,Adequate,Strong,High,High
+Google Cloud Platform (GCP),Successful,USA,Non-government,Cloud computing,2011,2023,12,n/a,No,No,No,No,High,High,Clear,Proper,Realistic,Complete,Stable,High,Adequate,Strong,High,High
+Microsoft Azure,Successful,USA,Non-government,Cloud computing,2010,2023,13,n/a,No,No,No,No,High,High,Unclear,Proper,Realistic,Complete,Stable,High,Adequate,Strong,High,High
+Service NSW,Successful,Australia,Government,Government services,2013,2023,10,n/a,No,No,No,No,High,High,Clear,Poor,Realistic,Incomplete,Stable,High,Adequate,Poor,High,High
+Digital First,Successful,Australia,Government,Government services,2016,2023,7,n/a,No,No,No,No,High,High,Clear,Proper,Unrealistic,Complete,Stable,High,Adequate,Strong,High,High
+Queensland Health's Electronic Medical Record (EMR),Successful,Australia,Government,Heathcare,2012,2018,6,$1.2 billion AUD,No,No,No,Yes,High,High,Unclear,Proper,Realistic,Complete,Stable,High,Adequate,Strong,High,Low
+PayPal,Successful,USA,Non-government,Finance,1998,2023,25,n/a,No,No,No,No,High,High,Clear,Proper,Realistic,Complete,Stable,High,Adequate,Strong,High,High
+NHS App,Successful,UK,Government,Heathcare,2017,2023,6,£100 million,No,No,No,No,Low,High,Clear,Proper,Unrealistic,Complete,Stable,High,Adequate,Strong,High,High
+Service Canada Online,Successful,Canada,Government,Government services,2003,2023,20,n/a,No,No,No,Yes,High,High,Clear,Proper,Realistic,Complete,Stable,High,Adequate,Poor,High,Low
+Estonia X-Road,Successful,Estonia,Government,Government services,2001,2023,22,n/a,No,No,No,No,High,High,Clear,Proper,Realistic,Incomplete,Stable,High,Adequate,Strong,High,High
+Unified Payments Interface (UPI),Successful,India,Government,Finance,2016,2023,7,n/a,No,No,No,No,Low,High,Unclear,Poor,Unrealistic,Complete,Stable,High,Adequate,Strong,High,Low
+Aadhaar,Successful,India,Government,Government services,2009,2023,14,n/a,No,No,No,No,High,High,Clear,Proper,Realistic,Complete,Stable,High,Adequate,Strong,High,High
+National Electronic Health Record (NEHR),Successful,Singapore,Government,Heathcare,2005,2011,6,n/a,No,No,No,No,High,High,Clear,Proper,Realistic,Complete,Stable,High,Adequate,Strong,Low,High
+e-Residency,Successful,Estonia,Government,Government services,2014,2023,9,n/a,No,No,No,No,Low,High,Unclear,n/a,Unrealistic,n/a,Stable,High,Adequate,Poor,High,High
+IndiaStack,Successful,India,Government,Government services,2010,2023,13,n/a,No,No,No,No,High,High,Clear,Proper,Realistic,Complete,Stable,High,Adequate,Strong,High,High
+National Information Infrastructure (NII),Successful,Slovakia,Government,Government services,1995,2023,28,n/a,No,No,No,Yes,High,High,Clear,Proper,Realistic,Complete,Stable,High,Adequate,Strong,High,High
+DAS OregonBuys: Enterprise,Successful,USA,Government,Procurement and Supply Chain,2019,2023,4,19.6 million,n/a,No,No,No,n/a,High,n/a,Proper,Unrealistic,Complete,Stable,High,Adequate,n/a,High,Low
+DAS Payroll/Time Tracking Project,Successful,USA,Government,Human Resources and Payroll,2019,2023,4,25 million,No,No,No,No,High,High,Clear,n/a,Realistic,Complete,Stable,n/a,Adequate,Strong,High,High
+DAS Workday Security Controls Enhancement,Successful,USA,Government,Human Resources and Payroll,2019,2022,3,0.491 million,n/a,No,No,No,Low,High,Unclear,Proper,Realistic,Complete,Stable,High,Adequate,Strong,High,High
+EIS Enterprise ITSM / ITAM,Successful,USA,Government,Cyber security,2019,2021,2,2.89 million,n/a,Yes,No,No,High,n/a,Clear,Poor,Realistic,Incomplete,Stable,High,Adequate,Poor,Low,High
+EIS Enterprise Mobile Security,Successful,USA,Government,Cyber security,2021,2024,3,3004374,No,Yes,Yes,Yes,High,High,Unclear,Proper,Unrealistic,Complete,Stable,High,Adequate,Strong,High,High
+EIS - Geospatial Data Management & Sharing,Successful,USA,Government,Data Management and Analytics,2020,2023,3,1831890,n/a,Yes,No,No,High,High,Clear,Proper,Realistic,Complete,n/a,n/a,Adequate,Strong,High,High
+ELVIS Central Assessment,Successful,USA,Government,technology,2021,2023,2,1681075,n/a,No,No,No,High,High,Clear,Proper,Realistic,Incomplete,Stable,n/a,Adequate,Poor,High,Low
+PERS ORION Modernization,Successful,USA,Government,technology,2021,2022,1,800000,n/a,Yes,Yes,No,Low,High,Clear,n/a,Realistic,Complete,Stable,High,Adequate,Strong,High,High
+PERS SB 1049 Implementation Program,Successful,USA,Government,technology,2019,2024,5,22814797,n/a,No,No,No,High,High,Unclear,Proper,Unrealistic,Complete,Stable,High,Adequate,Strong,High,High
+Special Education Compliance Data System Replacement,Successful,USA,Government,technology,2020,2025,5,292545,n/a,Yes,No,No,n/a,High,Clear,Proper,Realistic,Complete,Stable,High,Adequate,Strong,High,n/a
+State Data Center Move,Successful,USA,Government,technology,2021,2022,1,90000,n/a,Yes,Yes,No,High,High,n/a,Poor,Realistic,Complete,n/a,High,Adequate,Poor,High,High
+MHRA Licensing System Replacement Project,Successful,USA,Government,technology,2019,2019,0,1336000,n/a,Yes,No,Yes,High,n/a,Clear,Proper,Realistic,Incomplete,Stable,n/a,Adequate,Strong,High,High
+Dentistry License replacement project 2019,Successful,USA,Government,technology,2019,2020,1,5698418,n/a,No,No,No,High,Poor,Unclear,Proper,Unrealistic,Complete,Stable,High,Adequate,n/a,Low,High
+CCWIS Resource Parent Inquiry CertifiCanadation and Training (RPICT),Successful,USA,Government,technology,2020,2025,5,1019120,n/a,Yes,Yes,No,High,High,Clear,Proper,Realistic,Complete,Stable,High,Adequate,Strong,High,Low
+Contact Center,Successful,USA,Government,technology,2022,2024,2,31367810,n/a,Yes,No,Yes,n/a,High,Clear,Proper,Realistic,Complete,Stable,High,Adequate,Strong,High,High
+Laserfiche Enterprise,Successful,USA,Government,technology,2021,2023,2,784658,n/a,No,No,No,High,Low,Clear,Poor,Unrealistic,Complete,Stable,n/a,Adequate,Strong,High,High
+Provider Time Canadapture,Successful,USA,Government,technology,2014,2025,11,11342630,n/a,Yes,Yes,Yes,High,High,Clear,Proper,Realistic,n/a,Stable,High,Adequate,n/a,Low,High
+SB155 Enhancements,Successful,USA,Government,technology,2021,2023,2,2067840,n/a,No,Yes,Yes,High,High,Unclear,Proper,Realistic,Complete,Stable,High,Adequate,Poor,High,High
+ALERT IIS Replacement Project,Successful,USA,Government,technology,2022,2027,5,23700949,n/a,Yes,No,No,High,High,Clear,Proper,Realistic,Complete,Stable,High,Adequate,Strong,High,Low
+Aspen to iQIES Transition,Successful,USA,Government,technology,2023,2024,1,1517578,n/a,No,Yes,No,Low,High,Clear,Proper,n/a,Complete,Stable,High,Adequate,n/a,High,High
+Compass - MOTS Replacement,Successful,USA,Government,technology,2020,2024,4,6025806,n/a,Yes,No,No,High,Poor,Clear,Proper,Realistic,Incomplete,Stable,High,Adequate,Strong,High,High
+HASP 2,Successful,USA,Government,technology,2019,2024,5,8258688,n/a,No,Yes,No,High,High,Clear,Proper,Realistic,Complete,Stable,High,Adequate,Strong,High,Low
+HIV-E (HIV-Electronics),Successful,USA,Government,technology,2015,2027,12,14448785,n/a,No,Yes,No,Low,Poor,Clear,Proper,Realistic,Complete,Stable,High,Adequate,Poor,Low,High
+IT Asset Management System,Successful,USA,Government,technology,2018,2023,5,697000,n/a,No,Yes,No,High,High,n/a,Poor,Unrealistic,Complete,Stable,High,Adequate,Strong,High,High
+MMIS Program Integrity,Successful,USA,Government,technology,2018,2023,5,769980,n/a,Yes,No,No,High,High,n/a,Proper,Realistic,Complete,Stable,High,Adequate,Strong,High,High
+OEBB-PEBB Benefit Management Systems (BMS) Replacement Project,Successful,USA,Government,technology,2019,2025,6,16359475,n/a,No,Yes,No,High,High,Clear,n/a,Realistic,n/a,Stable,High,Adequate,Strong,Low,n/a
+OSH Incident Reporting and Infection Surveillance (IRIS) Project,Successful,USA,Government,technology,2018,2023,5,18934795,n/a,Yes,No,Yes,High,Poor,Unclear,Proper,n/a,Complete,Stable,High,Adequate,Strong,High,High
+OVERS ICR,Successful,USA,Government,technology,2021,2024,3,604943,n/a,Yes,No,No,Low,High,Clear,n/a,Realistic,Complete,n/a,High,n/a,Poor,High,High
+SERV-OR,Successful,USA,Government,technology,2021,2024,3,1581300,n/a,No,Yes,No,High,High,Clear,Proper,Realistic,n/a,Stable,High,Adequate,Strong,High,n/a
+TWIST To Web,Successful,USA,Government,technology,2016,2024,8,1407111,n/a,Yes,No,No,High,High,Clear,Proper,n/a,Complete,Stable,High,Adequate,Strong,High,High
+Ballast Water Database Replacement Project,Successful,USA,Government,Data Management,2020,2023,3,146976,n/a,Yes,No,No,High,Poor,Clear,Proper,Realistic,Complete,Stable,High,Adequate,Poor,High,High
+Environmental Data Management System (EDMS)/Your DEQ Online (YDO),Successful,USA,Government,Data Management,2018,2023,5,8633805,n/a,No,No,Yes,High,High,Unclear,Proper,Unrealistic,Complete,Stable,High,Adequate,Strong,Low,High
+AssetWorks,Successful,USA,Government,technology,2020,2024,4,15022313,n/a,No,Yes,No,High,High,Clear,n/a,Realistic,Incomplete,Stable,High,Adequate,Strong,High,High
+Electronic Licensing System,Successful,USA,Government,technology,2017,2023,6,1589716,n/a,No,Yes,No,n/a,High,Clear,Proper,Realistic,Complete,Stable,High,Adequate,Strong,High,Low
+Volunteer and Event (VEM) Project,Successful,USA,Government,technology,2019,2024,5,18913512,n/a,No,No,Yes,High,High,Unclear,Proper,n/a,Complete,Stable,High,Adequate,Strong,High,High
+OPRD Outdoor Recreation Solution,Successful,USA,Government,technology,2019,2025,6,2788572,n/a,No,No,No,High,High,Clear,Poor,Realistic,Complete,n/a,High,Adequate,Poor,High,High
+OSBEELS System Replacement,Successful,USA,Government,technology,2020,2021,1,700000,n/a,No,Yes,No,High,High,Clear,Proper,Realistic,n/a,Stable,High,Adequate,Strong,Low,High
+DOC Capital Renewal Camera Project,Successful,USA,Government,technology,2018,2023,5,1874712,n/a,No,No,No,High,High,Clear,Proper,Unrealistic,Complete,Stable,High,Adequate,Strong,High,Low
+DOC Communications P25 Radio Upgrade,Successful,USA,Government,technology,2018,2023,5,11114950,n/a,No,No,No,Low,Poor,Clear,n/a,Realistic,Incomplete,n/a,High,Adequate,Strong,High,High
+Elite Community Financials,Successful,USA,Government,Finance,2019,2023,4,3937039,n/a,No,Yes,No,High,High,Unclear,Proper,Realistic,Complete,Stable,n/a,n/a,Strong,High,High
+Victim Automated NotifiCation System (VANS),Successful,USA,Government,technology,2021,2023,2,621000,n/a,No,No,No,High,High,Clear,Poor,Realistic,n/a,n/a,High,Adequate,Poor,Low,High
+OEM Grant Management Modernization,Successful,USA,Government,technology,2023,2023,0,757897,n/a,No,Yes,Yes,n/a,High,Clear,Proper,Unrealistic,Complete,Stable,High,Adequate,Strong,High,n/a
+LEDS 20/20 (CRIMEvue Replacement),Successful,USA,Government,technology,2015,2025,10,993633,n/a,No,No,No,Low,Poor,Clear,Proper,Realistic,Complete,Stable,High,Adequate,Strong,High,High
+DMV - ATD Replacement,Successful,USA,Government,technology,2019,2024,5,710000,n/a,Yes,Yes,No,High,High,Clear,Proper,Realistic,Incomplete,Stable,n/a,Adequate,Strong,High,Low
+DMV - STP Kiosks,Successful,USA,Government,technology,2020,2024,4,85574641,n/a,No,Yes,No,High,High,Clear,n/a,n/a,Complete,Stable,High,Adequate,Poor,High,High
+ETS - AASHTOWare Project One Source of Truth,Successful,USA,Government,technology,2019,2024,5,11700000,n/a,No,Yes,No,High,High,n/a,Proper,Realistic,Complete,Stable,High,Adequate,Strong,High,High
+ETS - CHAMPS Rewrite,Successful,USA,Government,technology,2016,2023,7,860000,n/a,Yes,Yes,No,High,Poor,Clear,Poor,Realistic,Incomplete,Stable,High,Adequate,Strong,High,Low
+ODOT/PDCC CD Interconnect,Successful,USA,Government,technology,2021,2023,2,146,n/a,No,Yes,Yes,n/a,High,Clear,Proper,Realistic,Complete,n/a,High,Adequate,Strong,High,High
+ODOT Public Records Management System,Successful,USA,Government,technology,2021,2023,2,n/a,n/a,Yes,No,No,Low,High,n/a,Proper,Realistic,Complete,Stable,High,Adequate,Poor,High,High
+Safety Grants Management,Successful,USA,Government,technology,2020,2023,3,100,n/a,No,Yes,No,High,High,Clear,Proper,n/a,Incomplete,Stable,High,Adequate,Strong,Low,n/a
+Modernization Program - UI Modernization Project,Successful,USA,Government,technology,2018,2024,6,n/a,n/a,No,Yes,No,Low,High,Clear,Proper,Realistic,Complete,Stable,High,Adequate,Strong,High,High
+HAF (Homeowner Assistance Fund),Successful,USA,Government,Finance,2021,2022,1,9961,n/a,No,Yes,No,High,High,Clear,Proper,Realistic,Complete,Stable,High,Adequate,n/a,High,High
+HCM Implementation,Successful,Australia,Government,Workforce Management,2018,2019,1,$2890000 AUD,No,Yes,Yes,Yes,High,High,Clear,Poor,Realistic,Complete,Stable,High,Adequate,Poor,Low,n/a
+50 Franklin Street Fit-out,Successful,Australia,Government,Organisational Management,2018,2018,0,n/a,No,No,No,No,High,High,Clear,Proper,Unrealistic,Incomplete,Stable,High,Adequate,Strong,high,n/a
+AV Uplift TAC,Successful,Australia,Government,Communication,2020,2020,0,n/a,No,No,No,No,High,Poor,Clear,Proper,Realistic,Complete,Stable,High,n/a,Strong,high,High
+Acumen Phase 0,Successful,Australia,Government,Data Management,2022,2022,0,$100000 AUD,No,No,No,No,Low,High,Clear,Proper,Realistic,Complete,Stable,High,Adequate,Strong,high,n/a
+Asset Register Implementation Phase 1 - 2,Successful,Australia,Government,Assets/Materials Management,2018,2018,0,$1699696 AUD,No,No,No,No,High,High,n/a,Proper,Unrealistic,Complete,Stable,High,Adequate,Poor,high,High
+Asset Register Phase 3,Successful,Australia,Government,Assets/Materials Management,2021,2021,0,$75000 AUD,No,No,No,No,High,Poor,Clear,Poor,Realistic,Complete,Stable,High,Adequate,Strong,Low,High
+Asset management system upgrade,Successful,Australia,Government,Assets/Materials Management,2017,2018,1,n/a,No,No,No,Yes,High,High,Clear,Proper,Realistic,Complete,Stable,High,Adequate,Strong,high,n/a
+Australian Communications and Media Authority (ACMA) Compliance,Successful,Australia,Government,Communication,2013,2017,4,$10.9 million AUD,n/a,n/a,Yes,No,n/a,High,Clear,Proper,Realistic,Complete,Stable,High,Adequate,Strong,high,n/a
+Barwon Health North - ICT Infrastructure,Successful,Australia,Government,Development and Integration,2014,2020,6,n/a,n/a,n/a,Yes,No,n/a,High,Clear,Proper,Realistic,Complete,Stable,High,Adequate,Strong,high,High
+Barwon Health Optima Rostering Project,Successful,Australia,Government,Workforce Management,2017,2018,1,$3.55 million AUD,No,No,No,No,n/a,High,Clear,Proper,Realistic,Complete,Stable,High,Adequate,Strong,high,n/a

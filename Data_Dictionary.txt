@@ -1,0 +1,99 @@
+Project name:
+- Description: The name or title of the IT project.
+- Importance: Helps in uniquely identifying a project for reference purposes.
+
+State:
+- Description: The final outcome of the project, whether it was "Failed" or "Successful."
+- Importance: This is the target variable which your classification model will predict.
+
+Type:
+- Description: Classification of the project based on its origin, either "Government" or "Non-government."
+- Importance: The type might affect the bureaucracy, funding, and objectives of a project.
+
+Country:
+- Description: The country where the project was implemented.
+- Importance: Different countries might have different regulations, culture, and technical infrastructure which can influence the project outcome.
+
+Sub-category:
+- Description: The domain or sector the project pertains to, e.g., "Health," "Civil Engineering," "Finance," and so on.
+- Importance: Different domains have different challenges and requirements.
+
+Date started:
+- Description: The date when the project was initiated.
+- Importance: The start date can provide context about the technological and business landscape at the time.
+
+Date ended:
+- Description: The date when the project concluded.
+- Importance: Helps in calculating the duration and understanding the timeline of the project.
+
+Duration:
+- Description: Total time taken for the project, typically calculated as "Date ended" minus "Date started."
+- Importance: Longer projects might face more challenges due to changing requirements, technologies, or other factors.
+
+Budget:
+- Description: The financial allocation or estimate for the project.
+- Importance: Provides insights into the scale and financial constraints of the project.
+
+Restarts:
+- Description: Indicates whether the project had to be restarted at any point ('Yes' or 'No').
+- Importance: Restarts can be a sign of major issues or changes in direction, which could influence success.
+
+Cost overruns:
+- Description: Whether the project exceeded its budget ('Yes' or 'No').
+- Importance: Cost overruns can indicate poor planning or unforeseen challenges.
+
+Time overruns:
+- Description: Whether the project took longer than initially estimated ('Yes' or 'No').
+- Importance: Time overruns can indicate inefficiencies, changes in scope, or other issues.
+
+Content deficiency:
+- Description: Indicates if the project lacked essential content or features ('Yes' or 'No').
+- Importance: A content-deficient project may not meet user or stakeholder expectations.
+
+User involvement:
+- Description: The level of involvement or engagement of the end-users during the project (High or Low).
+- Importance: Active user involvement can lead to better feedback and a more user-centered product.
+
+Executive Management:
+- Description: The quality of leadership and oversight from the top-level management (High or Poor).
+- Importance: Effective executive management can provide clear direction and resources for a project.
+
+Statement of Requirements:
+- Description: Whether the project requirements were "Clear" or "Unclear."
+- Importance: Unclear requirements can lead to misunderstandings and scope changes.
+
+Planning:
+- Description: The quality of project planning (Proper or Poor).
+- Importance: Proper planning can reduce risks and ensure smooth execution.
+
+Expectations:
+- Description: Whether the project had "Realistic" or "Unrealistic" expectations set.
+- Importance: Unrealistic expectations can set a project up for perceived failure even if it meets its objectives.
+
+Requirements & Specifications:
+- Description: Indicates if the project's requirements and specifications were "Complete" or "Incomplete."
+- Importance: Incomplete requirements can lead to gaps in functionality and user satisfaction.
+
+Changing Requirements & Specifications:
+- Description: How stable the project's requirements and specifications were during its lifecycle (Stable or Unstable or Frequently changing).
+- Importance: Frequently changing requirements can disrupt the development process and increase costs.
+
+Technical Competence:
+- Description: The level of technical expertise of the project team (High or Low).
+- Importance: A highly competent team is more likely to overcome technical challenges.
+
+Resources Availability:
+- Description: Whether the necessary resources (e.g., manpower, tools, hardware) were "Adequate" or "Inadequate."
+- Importance: Inadequate resources can hinder the project's progress and quality.
+
+IT Management:
+- Description: The quality of IT management overseeing the project (Strong or Poor).
+- Importance: Strong IT management can provide technical guidance and ensure alignment with IT best practices.
+
+Technical Literacy:
+- Description: The technical understanding and capability of the stakeholders and end-users (High or Low).
+- Importance: High technical literacy can lead to better feedback and smoother adoption of the final product.
+
+User satisfaction:
+- Description: The level of satisfaction of the end-users with the final product or service (High or Low).
+- Importance: User satisfaction can be a strong indicator of project success and can influence future projects or phases.
